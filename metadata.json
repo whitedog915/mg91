@@ -2,5 +2,7 @@
   "name": "마계 군주가 되었다 — 공식 세계관 아카이브",
   "description": "다크 판타지 웹소설 《마계 군주가 되었다》의 공식 세계관, 아론데 대륙, 인간계 세력, 룩스 7검, 마족 진화 트리 및 히든 7마왕 공식 가이드",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
